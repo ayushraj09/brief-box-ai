@@ -27,7 +27,7 @@ The API handles the text summarization functionality with support for different 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/briefbox-ai.git
+git clone https://github.com/ayushraj09/brief-box-ai
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
@@ -74,9 +74,9 @@ briefbox-ai/
 
 ### Different Summary Levels
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="screenshots/normal.png" alt="Normal Summary Level" width="250" style="margin-right: 10px;">
-  <img src="screenshots/shorter.png" alt="Shorter Summary Level" width="250" style="margin-right: 10px;">
-  <img src="screenshots/elaborative.png" alt="Elaborative Summary Level" width="250">
+  <img src="screenshots/normal.png" alt="Normal Summary Level" width="260" height = "310" style="margin-right: 10px;">
+  <img src="screenshots/shorter.png" alt="Shorter Summary Level" width="260" height = "310" style="margin-right: 10px;">
+  <img src="screenshots/elaborative.png" alt="Elaborative Summary Level" width="260" height = "310" >
 </div>
 
 
