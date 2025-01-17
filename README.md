@@ -2,7 +2,7 @@
 
 BriefBox AI is a Chrome extension that helps users summarize email content with adjustable levels of detail. The extension provides a simple and intuitive interface for generating concise summaries of email threads, making it easier to quickly grasp the essential information.
 
-<img src="screenshots/interface.png" alt="BriefBox AI Interface" width="600">
+<img src="screenshots/interface.png" alt="BriefBox AI Interface" width="400">
 
 ## Features
 
@@ -74,9 +74,9 @@ briefbox-ai/
 
 ### Different Summary Levels
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="screenshots/normal.png" alt="Normal Summary Level" width="300" style="margin-right: 10px;">
-  <img src="screenshots/shorter.png" alt="Shorter Summary Level" width="300" style="margin-right: 10px;">
-  <img src="screenshots/elaborative.png" alt="Elaborative Summary Level" width="300">
+  <img src="screenshots/normal.png" alt="Normal Summary Level" width="250" style="margin-right: 10px;">
+  <img src="screenshots/shorter.png" alt="Shorter Summary Level" width="250" style="margin-right: 10px;">
+  <img src="screenshots/elaborative.png" alt="Elaborative Summary Level" width="250">
 </div>
 
 
